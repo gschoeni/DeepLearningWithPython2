@@ -1,0 +1,5 @@
+[MASTER]
+indent-string='  '
+
+[MESSAGES CONTROL]
+disable=E0611,R0903,C0116
